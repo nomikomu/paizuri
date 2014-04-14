@@ -20,3 +20,4 @@ database.yml
 *.swp
 *~
 .project
+.secret
